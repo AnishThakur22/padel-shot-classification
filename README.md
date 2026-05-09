@@ -145,5 +145,5 @@ https://drive.google.com/file/d/111Dd6VhAAuR3IJ1LOgoGvnECj1F7qSl5/view?usp=shari
 ---
 
 # Output Preview
-![Output Preview](![Uploading Screenshot 2026-05-09 140924.png…]()
+![Output Preview](output_preview.png)
 )
