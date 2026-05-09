@@ -1,7 +1,5 @@
 # AI/ML Internship Technical Assessment Submission for Layman AI
 
-# Padel Game Analytics — Shot Classification System
-
 ## Project Overview
 
 This project is a Computer Vision based sports analytics prototype developed for the Layman AI Internship Assignment.
