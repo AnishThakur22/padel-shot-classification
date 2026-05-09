@@ -127,3 +127,23 @@ The prototype successfully performs:
 - Analytics generation
 
 while maintaining a simple and scalable architecture.
+
+---
+
+# Input Video
+
+Google Drive Link:
+https://drive.google.com/file/d/1wHPvqWPMBJY4YiVujrBK3C0xJSclzKQ-/view?usp=sharing
+
+---
+
+# Output Demo Video
+
+Google Drive Link:
+https://drive.google.com/file/d/111Dd6VhAAuR3IJ1LOgoGvnECj1F7qSl5/view?usp=sharing
+
+---
+
+# Output Preview
+![Output Preview](![Uploading Screenshot 2026-05-09 140924.png…]()
+)
